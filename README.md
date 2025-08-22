@@ -1,0 +1,2 @@
+# Caido-Juice-Shop-Demo-Web-Application-Security-Testing-with-Caido-and-Juice-Shop
+Demonstrated web application security testing by integrating Caido proxy with OWASP Juice Shop. Showcased attack detection and vulnerability workflows (cookies, authentication, HTTP history analysis) as part of a BootCon presentation. Delivered slides, scripts, and live demo walkthrough, highlighting web app security testing methodologies.
